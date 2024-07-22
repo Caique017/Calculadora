@@ -1,0 +1,15 @@
+D:\Case_vaga_JR\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+D:\Case_vaga_JR\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+D:\Case_vaga_JR\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+D:\Case_vaga_JR\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+D:\Case_vaga_JR\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+D:\Case_vaga_JR\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll

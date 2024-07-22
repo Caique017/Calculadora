@@ -1,0 +1,5 @@
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Release\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Release\net5.0\Calculadora.AssemblyInfoInputs.cache
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Release\net5.0\Calculadora.AssemblyInfo.cs
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Release\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Case_vaga_JR\Calculadora\Calculadora\obj\Release\net5.0\Calculadora.sourcelink.json
