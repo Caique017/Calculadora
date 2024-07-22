@@ -26,7 +26,7 @@ Correção: foi alterado na classe Operacoes que as variáveis valorA e valorB e
 
   4. Implemente uma funcionalidade para imprimir toda a lista de operaçõoes a ser processada após cada calculo realizado.
 
-Correção: implementado na classe Operacoes.
+Correção: implementado na classe program.
 
   5. Crie uma nova pilha (Stack) para guardar o resultado de cada calculo efetuado e imprima a pilha ao final
 
