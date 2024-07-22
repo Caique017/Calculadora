@@ -24,11 +24,11 @@ Correção: implementado na classe Calculadora
 
 Correção: foi alterado na classe Operacoes que as variáveis valorA e valorB eram do tipo INT não tendo capacidade para a penúltima operação então utilizei um tipo de dado maior.
 
-  5. Implemente uma funcionalidade para imprimir toda a lista de operaçõoes a ser processada após cada calculo realizado.
+  4. Implemente uma funcionalidade para imprimir toda a lista de operaçõoes a ser processada após cada calculo realizado.
 
 Correção: implementado na classe Operacoes.
 
-  6. Crie uma nova pilha (Stack) para guardar o resultado de cada calculo efetuado e imprima a pilha ao final
+  5. Crie uma nova pilha (Stack) para guardar o resultado de cada calculo efetuado e imprima a pilha ao final
 
 Correção: implementado na classe Program.
 
